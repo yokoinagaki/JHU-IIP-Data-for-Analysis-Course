@@ -1,4 +1,5 @@
-# STATA files and do-files for Module 4 in Analysis and Interpretation of Large-scale Programs in Coursera
+# Analysis and Interpretation of Large-scale Programs
+### STATA files and do-files for Module 4
 
 1. <a href = "Assessment_Level_Example.dta" download> Assessment_Level_Example.dta </a>
 
