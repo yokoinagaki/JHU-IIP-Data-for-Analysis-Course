@@ -1,5 +1,4 @@
-# JHU-IIP-Data-for-Analysis-Course
-#### STATA files and do-files for Module 4 in Analysis and Interpretation of Large-scale Programs in Coursera
+# STATA files and do-files for Module 4 in Analysis and Interpretation of Large-scale Programs in Coursera
 
 1. <a href = "Assessment_Level_Example.dta" download> Assessment_Level_Example.dta </a>
 
